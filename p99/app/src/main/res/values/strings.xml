@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p99</string>
+    <string name="title_activity_student">Student</string>
+    <string name="title_activity_menaue">menaue</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
